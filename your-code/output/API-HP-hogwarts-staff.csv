@@ -1,0 +1,26 @@
+,name,alternate_names,species,gender,house,dateOfBirth,yearOfBirth,wizard,ancestry,eyeColour,hairColour,wand,patronus,hogwartsStudent,hogwartsStaff,actor,alternate_actors,alive,image
+0,Minerva McGonagall,[],human,female,Gryffindor,04-10-1925,1925.0,True,,,black,"{'wood': '', 'core': '', 'length': None}",tabby cat,False,True,Dame Maggie Smith,[],True,https://hp-api.herokuapp.com/images/mcgonagall.jpg
+1,Severus Snape,['Half-Blood Prince'],human,male,Slytherin,09-01-1960,1960.0,True,half-blood,black,black,"{'wood': '', 'core': '', 'length': None}",doe,False,True,Alan Rickman,[],False,https://hp-api.herokuapp.com/images/snape.jpg
+2,Rubeus Hagrid,[],half-giant,male,Gryffindor,06-12-1928,1928.0,True,half-blood,black,black,"{'wood': 'oak', 'core': '', 'length': 16}",,False,True,Robbie Coltrane,[],True,https://hp-api.herokuapp.com/images/hagrid.png
+3,Remus Lupin,"['Professor Lupin', 'Moony', 'Remus John Lupin']",werewolf,male,Gryffindor,10-03-1960,1960.0,True,half-blood,green,brown,"{'wood': 'cypress', 'core': 'unicorn tail-hair', 'length': 10.25}",wolf,False,True,David Thewlis,[],False,https://hp-api.herokuapp.com/images/lupin.jpg
+4,Horace Slughorn,[],human,male,Slytherin,,,True,pure-blood,green,blonde,"{'wood': 'cedar', 'core': 'dragon heartstring', 'length': 10.25}",,False,True,Jim Broadbent,[],True,https://hp-api.herokuapp.com/images/slughorn.JPG
+5,Dolores Umbridge,[],human,female,Slytherin,,,True,half-blood,brown,grey,"{'wood': 'birch', 'core': 'dragon heartstring', 'length': 8}",persian cat,False,True,Imelda Staunton,[],True,https://hp-api.herokuapp.com/images/umbridge.jpg
+6,Mrs Norris,[],cat,female,,,,False,,yellow,brown,"{'wood': '', 'core': '', 'length': None}",,False,True,"Maxime, Alanis and Tommy the cats",[],True,https://hp-api.herokuapp.com/images/norris.JPG
+7,Argus Filch,[],human,male,,,,False,squib,,grey,"{'wood': '', 'core': '', 'length': None}",,False,True,David Bradley,[],True,https://hp-api.herokuapp.com/images/filch.jpg
+8,Albus Dumbledore,[],human,male,Gryffindor,,0.0,True,half-blood,blue,silver,"{'wood': '', 'core': '', 'length': None}",,False,True,Richard Harris,['Michael Gambon'],False,
+9,Madam Pomfrey,['Poppy Pomfrey'],human,female,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,Gemma Jones,[],True,
+10,Quirinus Quirrel,['Professor Quirrel'],human,male,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,Ian Hart,[],False,
+11,Pomona Sprout,['Professor Sprout'],human,female,Hufflepuff,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,Miriam Margolyes,[],True,
+12,Cuthbert Binns,['Professor Binns'],ghost,male,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,,[],False,
+13,Filius Flitwick,['Professor Flitwick'],human,male,Ravenclaw,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,Warwick Davis,[],True,
+14,Madam Hooch,['Rolanda Hooch'],human,female,,,,True,,yellow,grey,"{'wood': '', 'core': '', 'length': None}",,False,True,Zoë Wanamaker,[],True,
+15,Firenze,['Professor Firenze'],centaur,male,,,,False,,blue,blond,"{'wood': '', 'core': '', 'length': None}",,False,True,Ray Fearon,[],True,
+16,Gilderoy Lockhart,['Professor Lockhart'],human,male,,,,True,half-blood,blue,blond,"{'wood': 'cherry', 'core': 'dragon heartstring', 'length': 9}",,False,True,Kenneth Branagh,[],True,
+17,Madame Pince,['Irma Pince'],human,female,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,Sally Mortemore,[],True,
+18,Sybill Trelawney,"['Sybill Patricia Trelawney', 'Professor Trelawney']",human,female,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,Emma Thompson,[],True,
+19,Septima Vector,['Professor Vector'],human,female,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,,[],True,
+20,Aurora Sinistra,['Professor Sinistra'],human,female,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,,[],True,
+21,Alastor Moody,"['Professor Moody', 'Mad-Eye']",human,male,,,,True,pure-blood,dark,grey,"{'wood': '', 'core': '', 'length': None}",,False,True,Brendan Gleeson,[],False,
+22,Wilhelmina Grubbly-Plank,['Professor Grubbly-Plank'],human,female,,,,True,,,grey,"{'wood': '', 'core': '', 'length': None}",,False,True,Apple Brook,[],True,
+23,Galatea Merrythought,[],human,female,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,,[],False,
+24,Charity Burbage,[],human,female,,,,True,,,,"{'wood': '', 'core': '', 'length': None}",,False,True,Carolyn Pickles,[],False,
